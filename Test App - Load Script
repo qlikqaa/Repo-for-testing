@@ -6,6 +6,7 @@ ID,name,type,value
 3,C,red,80
 3,C,yellow,60
 4,D,yellow,40
-4,D,blue,30
+4,D,red,30
 5,E,violet,70
+6,F,pink,10
 ];
