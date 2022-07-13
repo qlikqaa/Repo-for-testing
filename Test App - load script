@@ -1,9 +1,4 @@
 Table1:
 load * inline [
-ID,name,type,value
-1,A,blue,10
-1,A,yellow,50
-3,C,red,80
-3,C,yellow,60
 $%*&^%$#4
 ];
