@@ -1,238 +1,224 @@
 
 SHEETS
-{"qInfo":{"qId":"XuWLHFK","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"XuWLHFK","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.645Z","modifiedDate":"2022-12-13T09:16:12.953Z","publishTime":"2022-12-13T09:16:12.953Z","published":true,"privileges":["read","publish"],"title":"Performance Dashboard","description":"View sales performance and variance year over year. Analyze actual sales vs budget."},"qData":[]}
-{"qInfo":{"qId":"aphzPL","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"aphzPL","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.582Z","modifiedDate":"2022-12-13T09:05:33.582Z","privileges":["read","update","delete","publish"],"title":"US Regional Analysis","description":"See the breakdown of sales, customers, and shipments by state."},"qData":[]}
-{"qInfo":{"qId":"LSZHpfJ","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"LSZHpfJ","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.769Z","modifiedDate":"2022-12-13T09:05:33.769Z","privileges":["read","update","delete","publish"],"title":"Sales Comparison","description":"Compare this year sales with last year  sales."},"qData":[]}
-{"qInfo":{"qId":"zBAFH","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"zBAFH","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.806Z","modifiedDate":"2022-12-13T09:05:33.806Z","privileges":["read","update","delete","publish"],"title":"Transactions","description":"See an overview of customer invoices."},"qData":[]}
-{"qInfo":{"qId":"QuRM","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"QuRM","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.813Z","modifiedDate":"2022-12-13T09:05:33.813Z","privileges":["read","update","delete","publish"],"title":"Past Dues","description":"See which customers have past due invoices."},"qData":[]}
-{"qInfo":{"qId":"hxzkf","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"hxzkf","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.827Z","modifiedDate":"2022-12-13T09:05:33.827Z","privileges":["read","update","delete","publish"],"title":"Sales and Margin","description":"See the overall percentage of sales for each of the product groups in the sales portfolio of each sales rep."},"qData":[]}
-{"qInfo":{"qId":"UmZp","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"UmZp","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.964Z","modifiedDate":"2022-12-13T09:05:33.964Z","privileges":["read","update","delete","publish"],"title":"Shipments","description":"Analyze shipment history over the last year."},"qData":[]}
-{"qInfo":{"qId":"JTxTF","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"JTxTF","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.978Z","modifiedDate":"2022-12-13T09:05:33.978Z","privileges":["read","update","delete","publish"],"title":"Top Customers","description":"Analyze the sales of our top customers over time."},"qData":[]}
+{"qInfo":{"qId":"98c1fa2d-8b38-42d9-a037-b328500dae22","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"98c1fa2d-8b38-42d9-a037-b328500dae22","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.949Z","modifiedDate":"2023-02-07T06:11:43.949Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"e4236b82-4db5-43de-b89a-c882ac7456a7","qType":"sheet"},"qMeta":{"title":"Customer Analysis (1)","description":"Sales Performance Analysis per Customer","_resourcetype":"app.object","_objecttype":"sheet","id":"e4236b82-4db5-43de-b89a-c882ac7456a7","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.955Z","modifiedDate":"2023-02-07T06:11:43.955Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"986b182e-0f10-4607-a6cd-f7e87c83a24b","qType":"sheet"},"qMeta":{"title":"Inventory Analysis","description":"Analysis of Current Inventories","_resourcetype":"app.object","_objecttype":"sheet","id":"986b182e-0f10-4607-a6cd-f7e87c83a24b","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.963Z","modifiedDate":"2023-02-07T06:11:43.963Z","publishTime":true,"privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"363cf57b-aac1-4d83-a324-c6b8b2b24d5c","qType":"sheet"},"qMeta":{"title":"Sales Details","description":"Searchable Detailed Sales Orders","_resourcetype":"app.object","_objecttype":"sheet","id":"363cf57b-aac1-4d83-a324-c6b8b2b24d5c","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.967Z","modifiedDate":"2023-02-07T06:11:43.967Z","publishTime":true,"privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"505d5fa2-1499-4dd4-98db-a54de627e84b","qType":"sheet"},"qMeta":{"title":"State Sales Analysis","description":"Sales Performance Analysis per State (USA)","_resourcetype":"app.object","_objecttype":"sheet","id":"505d5fa2-1499-4dd4-98db-a54de627e84b","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.969Z","modifiedDate":"2023-02-07T06:11:43.969Z","publishTime":true,"privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"08e8b65e-df0a-48a6-bbe4-6cfbf51e43b6","qType":"sheet"},"qMeta":{"title":"Product Sales Analysis","description":"Sales Performance Analysis per Product","_resourcetype":"app.object","_objecttype":"sheet","id":"08e8b65e-df0a-48a6-bbe4-6cfbf51e43b6","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.971Z","modifiedDate":"2023-02-07T06:11:43.971Z","publishTime":true,"privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"b3e9bf77-3ebf-4901-b8df-045ee5a72523","qType":"sheet"},"qMeta":{"title":"Sales Rep Performance","description":"Sales Performance Analysis per Sales Rep","_resourcetype":"app.object","_objecttype":"sheet","id":"b3e9bf77-3ebf-4901-b8df-045ee5a72523","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.974Z","modifiedDate":"2023-02-07T06:11:43.974Z","publishTime":true,"privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"f52a9457-7984-402d-a7bf-002d91137c56","qType":"sheet"},"qMeta":{"title":"Executive Dashboard","description":"Executive Overview of Sales","_resourcetype":"app.object","_objecttype":"sheet","id":"f52a9457-7984-402d-a7bf-002d91137c56","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.977Z","modifiedDate":"2023-02-07T06:11:43.977Z","publishTime":true,"privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"bfa809fc-4813-4874-8f8f-8d456803d71a","qType":"sheet"},"qMeta":{"title":"YOY Analysis","description":"Sales Performance Analysis per Product","_resourcetype":"app.object","_objecttype":"sheet","id":"bfa809fc-4813-4874-8f8f-8d456803d71a","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.981Z","modifiedDate":"2023-02-07T06:11:43.981Z","publishTime":true,"privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"4beabf05-6dd4-477c-9327-392b741cbfb7","qType":"sheet"},"qMeta":{"title":"Customer Analysis","description":"Sales Performance Analysis per Customer","_resourcetype":"app.object","_objecttype":"sheet","id":"4beabf05-6dd4-477c-9327-392b741cbfb7","approved":false,"published":true,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.984Z","modifiedDate":"2023-02-07T06:11:43.984Z","publishTime":"2021-11-30T01:14:05.089Z","privileges":["read","publish"]},"qData":[]}
+{"qInfo":{"qId":"087d0d2a-cd5f-4193-b08b-b922acdc05d6","qType":"sheet"},"qMeta":{"title":"Introduction","description":"Welcome Page","_resourcetype":"app.object","_objecttype":"sheet","id":"087d0d2a-cd5f-4193-b08b-b922acdc05d6","approved":false,"published":true,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:43.988Z","modifiedDate":"2023-02-07T06:11:43.988Z","publishTime":"2021-11-30T01:13:55.625Z","privileges":["read","publish"]},"qData":[]}
 
 OBJECTS ON SHEETS
-{"name":"SqDbku","type":"barchart","col":8,"row":0,"colspan":15,"rowspan":7}
-{"name":"LZgFjmq","type":"filterpane","col":1,"row":0,"colspan":2,"rowspan":11}
-{"name":"yVWmD","type":"linechart","col":4,"row":7,"colspan":19,"rowspan":4}
-{"name":"mTjVeM","type":"kpi","col":4,"row":0,"colspan":4,"rowspan":2}
-{"name":"NXfLpP","type":"kpi","col":4,"row":2,"colspan":4,"rowspan":2}
-{"name":"jhTmTRy","type":"kpi","col":4,"row":4,"colspan":4,"rowspan":2}
-{"name":"kQPzCm","type":"map","col":14,"row":2,"colspan":9,"rowspan":4}
-{"name":"YPhqut","type":"map","col":14,"row":7,"colspan":9,"rowspan":4}
-{"name":"VQFJxg","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1}
-{"name":"tVJVu","type":"map","col":1,"row":2,"colspan":12,"rowspan":9}
-{"name":"HDThZ","type":"pivot-table","col":1,"row":0,"colspan":22,"rowspan":12}
-{"name":"vLBzTah","type":"table","col":4,"row":0,"colspan":19,"rowspan":11}
-{"name":"gkctau","type":"filterpane","col":1,"row":0,"colspan":2,"rowspan":11}
-{"name":"feTjNWz","type":"table","col":1,"row":1,"colspan":22,"rowspan":10}
-{"name":"mVnmJ","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1}
-{"name":"xvZYRNK","type":"scatterplot","col":7,"row":0,"colspan":14,"rowspan":6}
-{"name":"UkushK","type":"barchart","col":5,"row":6,"colspan":18,"rowspan":5}
-{"name":"HnGSP","type":"text-image","col":1,"row":1,"colspan":3,"rowspan":11}
-{"name":"PvgapdM","type":"linechart","col":1,"row":6,"colspan":22,"rowspan":5}
-{"name":"PPVbPr","type":"combochart","col":1,"row":2,"colspan":22,"rowspan":4}
-{"name":"zGjyS","type":"text-image","col":0,"row":0,"colspan":24,"rowspan":2}
-{"name":"qgVhE","type":"barchart","col":5,"row":0,"colspan":18,"rowspan":7}
-{"name":"fPzFZu","type":"barchart","col":5,"row":7,"colspan":5,"rowspan":4}
-{"name":"umjpJqs","type":"linechart","col":10,"row":7,"colspan":13,"rowspan":4}
-{"name":"Btbd","type":"filterpane","col":1,"row":0,"colspan":3,"rowspan":11}
+{"bounds":{"x":0,"y":0,"width":100,"height":100},"col":0,"colspan":24,"name":"pmywAk","row":0,"rowspan":12,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"barchart"}
+{"name":"b71a6a71-a2e7-4f29-9f12-81c4094e77f3","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1,"bounds":{"y":0,"x":0,"width":100,"height":8.333333333333332}}
+{"name":"69a49bf7-cf6d-48ca-accd-ce65b81ad91e","type":"linechart","col":1,"row":2,"colspan":11,"rowspan":4,"bounds":{"y":16.666666666666664,"x":4.166666666666666,"width":45.83333333333333,"height":33.33333333333333}}
+{"name":"44b3e80c-7d5a-4f14-8a1b-6bfbc362f242","type":"linechart","col":0,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":0,"width":50,"height":50}}
+{"name":"24c8bac9-c39f-4bd7-bf73-b07fc06ed870","type":"barchart","col":12,"row":1,"colspan":12,"rowspan":5,"bounds":{"y":8.333333333333332,"x":50,"width":50,"height":41.66666666666667}}
+{"name":"311a4ce6-e840-4445-bf4a-501bf6be855d","type":"distributionplot","col":12,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":50,"width":50,"height":50}}
+{"name":"ZUJJbr","type":"action-button","col":0,"row":1,"colspan":2,"rowspan":1,"bounds":{"y":8.333333333333332,"x":0,"width":8.333333333333332,"height":8.333333333333332}}
+{"name":"a8bc3625-9529-477c-a0fe-dc741097f565","type":"filterpane","col":3,"row":0,"colspan":21,"rowspan":1,"bounds":{"y":0,"x":12.5,"width":87.5,"height":8.333333333333332}}
+{"name":"fd8880da-0ead-44b2-a90c-cc97b196981c","type":"table","col":15,"row":6,"colspan":9,"rowspan":6,"bounds":{"y":50,"x":62.5,"width":37.5,"height":50}}
+{"name":"rxLJDp","type":"barchart","col":15,"row":1,"colspan":9,"rowspan":5,"bounds":{"y":8.333333333333332,"x":62.5,"width":37.5,"height":41.66666666666667}}
+{"name":"Fnsj","type":"qlik-heatmap-chart","col":3,"row":1,"colspan":12,"rowspan":11,"bounds":{"y":8.333333333333332,"x":12.5,"width":50,"height":91.66666666666666}}
+{"name":"BuLBNu","type":"filterpane","col":0,"row":0,"colspan":3,"rowspan":12,"bounds":{"y":0,"x":0,"width":12.5,"height":100}}
+{"name":"852c8a1f-1297-4acb-8029-4bc09dd1bc24","type":"filterpane","col":0,"row":0,"colspan":21,"rowspan":1,"bounds":{"y":0,"x":0,"width":87.5,"height":8.333333333333332}}
+{"name":"17f51b4b-3a21-4cbc-87a7-c812d527e576","type":"table","col":0,"row":1,"colspan":24,"rowspan":11,"bounds":{"y":8.333333333333332,"x":0,"width":100,"height":91.66666666666666}}
+{"name":"bqmEZQ","type":"qlik-variable-input","col":21,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":87.5,"width":12.5,"height":8.333333333333332}}
+{"name":"966c514e-42c6-4f70-9b41-fdb98d702e94","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1,"bounds":{"y":0,"x":0,"width":100,"height":8.333333333333332}}
+{"name":"c52e2533-28c3-4834-81c5-b40f203e9e66","type":"table","col":17,"row":1,"colspan":7,"rowspan":11,"bounds":{"y":8.333333333333332,"x":70.83333333333334,"width":29.166666666666668,"height":91.66666666666666}}
+{"name":"fdee734e-ca79-4faf-9c47-68ac79d5c89a","type":"map","col":0,"row":1,"colspan":17,"rowspan":11,"bounds":{"y":8.333333333333332,"x":0,"width":70.83333333333334,"height":91.66666666666666}}
+{"name":"0308fece-16c4-431f-a3f0-2ea58510458e","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1,"bounds":{"y":0,"x":0,"width":100,"height":8.333333333333332}}
+{"name":"2c1770de-a396-4df8-8f94-387db9f96147","type":"linechart","col":0,"row":1,"colspan":12,"rowspan":5,"bounds":{"y":8.333333333333332,"x":0,"width":50,"height":41.66666666666667}}
+{"name":"uyMmRAS","type":"table","col":12,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":50,"width":50,"height":50}}
+{"name":"CjJHFV","type":"combochart","col":12,"row":1,"colspan":12,"rowspan":5,"bounds":{"y":8.333333333333332,"x":50,"width":50,"height":41.66666666666667}}
+{"name":"gtppx","type":"treemap","col":0,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":0,"width":50,"height":50}}
+{"name":"7c651bab-7034-4c14-a729-ccb73984e3b3","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1,"bounds":{"y":0,"x":0,"width":100,"height":8.333333333333332}}
+{"name":"0936a6a7-28e6-413d-950d-d60ea5fc3145","type":"table","col":15,"row":6,"colspan":9,"rowspan":6,"bounds":{"y":50,"x":62.5,"width":37.5,"height":50}}
+{"name":"f99191c3-e15b-42de-a3bd-9d4bae341ccd","type":"treemap","col":8,"row":6,"colspan":7,"rowspan":6,"bounds":{"y":50,"x":33.33333333333333,"width":29.166666666666668,"height":50}}
+{"name":"988c42ae-7566-4640-9925-444dceb9fec1","type":"barchart","col":0,"row":6,"colspan":8,"rowspan":6,"bounds":{"y":50,"x":0,"width":33.33333333333333,"height":50}}
+{"name":"fAwWQj","type":"linechart","col":0,"row":1,"colspan":12,"rowspan":5,"bounds":{"y":8.333333333333332,"x":0,"width":50,"height":41.66666666666667}}
+{"name":"Ykerq","type":"combochart","col":12,"row":1,"colspan":12,"rowspan":5,"bounds":{"y":8.333333333333332,"x":50,"width":50,"height":41.66666666666667}}
+{"name":"LPvmD","type":"kpi","col":2,"row":0,"colspan":6,"rowspan":2,"bounds":{"y":0,"x":8.333333333333332,"width":25,"height":16.666666666666664}}
+{"name":"VYJNbmS","type":"kpi","col":9,"row":0,"colspan":6,"rowspan":2,"bounds":{"y":0,"x":37.5,"width":25,"height":16.666666666666664}}
+{"name":"aXRrF","type":"kpi","col":16,"row":0,"colspan":6,"rowspan":2,"bounds":{"y":0,"x":66.66666666666666,"width":25,"height":16.666666666666664}}
+{"name":"kSHXCJD","type":"filterpane","col":0,"row":0,"colspan":2,"rowspan":1,"bounds":{"y":0,"x":0,"width":8.333333333333332,"height":8.333333333333332}}
+{"name":"jAYkSg","type":"barchart","col":1,"row":2,"colspan":11,"rowspan":5,"bounds":{"y":16.666666666666664,"x":4.166666666666666,"width":45.83333333333333,"height":41.66666666666667}}
+{"name":"UpDBy","type":"barchart","col":12,"row":2,"colspan":11,"rowspan":5,"bounds":{"y":16.666666666666664,"x":50,"width":45.83333333333333,"height":41.66666666666667}}
+{"name":"DECaag","type":"barchart","col":1,"row":7,"colspan":11,"rowspan":5,"bounds":{"y":58.333333333333336,"x":4.166666666666666,"width":45.83333333333333,"height":41.66666666666667}}
+{"name":"EYhRpS","type":"barchart","col":12,"row":7,"colspan":11,"rowspan":5,"bounds":{"y":58.333333333333336,"x":50,"width":45.83333333333333,"height":41.66666666666667}}
+{"name":"6ab72274-2c5d-426f-8266-3548e7bbd9fe","type":"filterpane","col":0,"row":0,"colspan":36,"rowspan":1,"bounds":{"y":0,"x":0,"width":100,"height":8.333333333333332}}
+{"name":"UXekQE","type":"linechart","col":0,"row":2,"colspan":18,"rowspan":8,"bounds":{"y":11.11111111111111,"x":0,"width":50,"height":44.44444444444444}}
+{"name":"UQhju","type":"table","col":18,"row":10,"colspan":18,"rowspan":8,"bounds":{"y":55.55555555555556,"x":50,"width":50,"height":44.44444444444444}}
+{"name":"hHbsfVP","type":"table","col":0,"row":10,"colspan":18,"rowspan":8,"bounds":{"y":55.55555555555556,"x":0,"width":50,"height":44.44444444444444}}
+{"name":"XLAJqqk","type":"combochart","col":18,"row":2,"colspan":18,"rowspan":8,"bounds":{"y":11.11111111111111,"x":50,"width":50,"height":44.44444444444444}}
+{"name":"8cadfe17-39e7-4e83-ac39-20a12f28f040","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1,"bounds":{"y":0,"x":0,"width":100,"height":8.333333333333332}}
+{"name":"AJrmxQu","type":"linechart","col":0,"row":1,"colspan":12,"rowspan":5,"bounds":{"y":8.333333333333332,"x":0,"width":50,"height":41.66666666666667}}
+{"name":"reetwY","type":"linechart","col":0,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":0,"width":50,"height":50}}
+{"name":"HpPnKY","type":"barchart","col":12,"row":1,"colspan":12,"rowspan":5,"bounds":{"y":8.333333333333332,"x":50,"width":50,"height":41.66666666666667}}
+{"name":"wVtLPW","type":"distributionplot","col":12,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":50,"width":50,"height":50}}
+{"name":"d7800688-824a-47eb-9499-35ee72c9f7a8","type":"table","col":1,"row":6,"colspan":22,"rowspan":6,"bounds":{"y":50,"x":4.166666666666666,"width":91.66666666666666,"height":50}}
+{"name":"51c23b26-791a-4a2f-ac0e-c7187a443a05","type":"text-image","col":1,"row":0,"colspan":18,"rowspan":6,"bounds":{"y":0,"x":4.166666666666666,"width":75,"height":50}}
+{"name":"b6e11275-a485-460d-987d-16a50c51cc33","type":"text-image","col":19,"row":0,"colspan":4,"rowspan":2,"bounds":{"y":0,"x":79.16666666666666,"width":16.666666666666664,"height":16.666666666666664}}
+{"name":"a86979ff-397b-4452-be51-01ad6bf9e1f5","type":"text-image","col":19,"row":4,"colspan":4,"rowspan":2,"bounds":{"y":33.33333333333333,"x":79.16666666666666,"width":16.666666666666664,"height":16.666666666666664}}
+{"name":"4e7fe64f-ff7e-40a8-8062-ea7fb27695c9","type":"text-image","col":19,"row":2,"colspan":4,"rowspan":2,"bounds":{"y":16.666666666666664,"x":79.16666666666666,"width":16.666666666666664,"height":16.666666666666664}}
 
 DIMENSIONS
-{"qInfo":{"qId":"BQnV","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"BQnV","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.561Z","modifiedDate":"2022-12-13T09:05:33.561Z","privileges":["read","update","delete","publish"],"title":"Product Line","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"YXXFVb","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"YXXFVb","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.583Z","modifiedDate":"2022-12-13T09:05:33.583Z","privileges":["read","update","delete","publish"],"title":"Month","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"dFrJP","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"dFrJP","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.607Z","modifiedDate":"2022-12-13T09:05:33.607Z","privileges":["read","update","delete","publish"],"title":"Date","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"ujLeFS","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"ujLeFS","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.651Z","modifiedDate":"2022-12-13T09:05:33.651Z","privileges":["read","update","delete","publish"],"title":"YearMonth","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"xyjwAr","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"xyjwAr","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.667Z","modifiedDate":"2022-12-13T09:05:33.667Z","privileges":["read","update","delete","publish"],"title":"State","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"wrBEt","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"wrBEt","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.769Z","modifiedDate":"2022-12-13T09:05:33.769Z","privileges":["read","update","delete","publish"],"title":"Division","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"PxJf","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"PxJf","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.823Z","modifiedDate":"2022-12-13T09:05:33.823Z","privileges":["read","update","delete","publish"],"title":"Year","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"WyjCnj","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"WyjCnj","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.828Z","modifiedDate":"2022-12-13T09:05:33.828Z","privileges":["read","update","delete","publish"],"title":"Product Group","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"wJSVej","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"wJSVej","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.839Z","modifiedDate":"2022-12-13T09:05:33.839Z","privileges":["read","update","delete","publish"],"title":"Sales Rep","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"aSrjAf","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"aSrjAf","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.897Z","modifiedDate":"2022-12-13T09:05:33.897Z","privileges":["read","update","delete","publish"],"title":"Promised Delivery Date","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"Cvbxj","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"Cvbxj","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.939Z","modifiedDate":"2022-12-13T09:05:33.939Z","privileges":["read","update","delete","publish"],"title":"Customer","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"nmSNGjD","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"nmSNGjD","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.959Z","modifiedDate":"2022-12-13T09:05:33.959Z","privileges":["read","update","delete","publish"],"title":"Region > Cust","description":"Drill down from Region to State and then to Customers name.","tags":[]},"qData":[]}
-{"qInfo":{"qId":"XXVFDX","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"XXVFDX","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.977Z","modifiedDate":"2022-12-13T09:05:33.977Z","privileges":["read","update","delete","publish"],"title":"Region","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"nNbDd","qType":"dimension"},"qMeta":{"title":"Quarter","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"nNbDd","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.017Z","modifiedDate":"2023-02-07T06:11:44.017Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"aYDPB","qType":"dimension"},"qMeta":{"title":"Warehouse Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"aYDPB","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.018Z","modifiedDate":"2023-02-07T06:11:44.018Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"kSbQZhP","qType":"dimension"},"qMeta":{"title":"Product Category - Product","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"kSbQZhP","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.018Z","modifiedDate":"2023-02-07T06:11:44.018Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"QSspPJY","qType":"dimension"},"qMeta":{"title":"State Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"QSspPJY","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.018Z","modifiedDate":"2023-02-07T06:11:44.018Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"56e90254-377e-4651-afd1-5cd9a50c17df","qType":"dimension"},"qMeta":{"title":"Customer Gender","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"56e90254-377e-4651-afd1-5cd9a50c17df","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.019Z","modifiedDate":"2023-02-07T06:11:44.019Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"5194687b-e5e3-4be0-8905-79c4a6a7d8e4","qType":"dimension"},"qMeta":{"title":"Customer Income Level","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"5194687b-e5e3-4be0-8905-79c4a6a7d8e4","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.020Z","modifiedDate":"2023-02-07T06:11:44.020Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"dQJVmm","qType":"dimension"},"qMeta":{"title":"Customer Country","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"dQJVmm","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.020Z","modifiedDate":"2023-02-07T06:11:44.020Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"HRYXwb","qType":"dimension"},"qMeta":{"title":"Customer","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"HRYXwb","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.020Z","modifiedDate":"2023-02-07T06:11:44.020Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"CSppKW","qType":"dimension"},"qMeta":{"title":"Org Hierarchy","description":"Drill Down of the Sale Organization Hierarchy","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"CSppKW","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.020Z","modifiedDate":"2023-02-07T06:11:44.020Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"nPyJaMx","qType":"dimension"},"qMeta":{"title":"Fiscal Year Qtr","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"nPyJaMx","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.021Z","modifiedDate":"2023-02-07T06:11:44.021Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"31313d89-edf8-479d-b2bc-c137e4db07c7","qType":"dimension"},"qMeta":{"title":"Year","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"31313d89-edf8-479d-b2bc-c137e4db07c7","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.022Z","modifiedDate":"2023-02-07T06:11:44.022Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"f07332d0-ddcd-40a3-b0ee-2fe54cdecf6e","qType":"dimension"},"qMeta":{"title":"Customer Country","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"f07332d0-ddcd-40a3-b0ee-2fe54cdecf6e","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.022Z","modifiedDate":"2023-02-07T06:11:44.022Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"5de1637a-ee48-4efd-83c7-2cc80b1a008a","qType":"dimension"},"qMeta":{"title":"Product","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"5de1637a-ee48-4efd-83c7-2cc80b1a008a","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.022Z","modifiedDate":"2023-02-07T06:11:44.022Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"5f07b202-8824-463c-86ea-5a3517a0f450","qType":"dimension"},"qMeta":{"title":"Product Category","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"5f07b202-8824-463c-86ea-5a3517a0f450","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.023Z","modifiedDate":"2023-02-07T06:11:44.023Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"3428b9be-4e45-4926-bd19-351b7239bb05","qType":"dimension"},"qMeta":{"title":"Year-Quarter","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"3428b9be-4e45-4926-bd19-351b7239bb05","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.023Z","modifiedDate":"2023-02-07T06:11:44.023Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"JFTvReA","qType":"dimension"},"qMeta":{"title":"Department Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"JFTvReA","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.023Z","modifiedDate":"2023-02-07T06:11:44.023Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"989d9e8b-4739-423e-8eab-2cdcc2ac9aa1","qType":"dimension"},"qMeta":{"title":"Manager Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"989d9e8b-4739-423e-8eab-2cdcc2ac9aa1","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.023Z","modifiedDate":"2023-02-07T06:11:44.023Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"FBvaPgM","qType":"dimension"},"qMeta":{"title":"Sales Rep Name","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"FBvaPgM","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.024Z","modifiedDate":"2023-02-07T06:11:44.024Z","privileges":["read","update","delete","publish"]},"qData":[]}
 
 MEASURES
-{"qInfo":{"qId":"LgjscwU","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"LgjscwU","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.595Z","modifiedDate":"2022-12-13T09:05:33.595Z","privileges":["read","update","delete","publish"],"title":"Sales YTD","description":"Sales amount YTD (Year-to-date is a period, starting from the beginning of the current year and continuing up to the present day).","tags":["sales"]},"qData":[]}
-{"qInfo":{"qId":"swHWw","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"swHWw","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.626Z","modifiedDate":"2022-12-13T09:05:33.626Z","privileges":["read","update","delete","publish"],"title":"Sales","description":"Sum of sales amount.","tags":["Sales"]},"qData":[]}
-{"qInfo":{"qId":"scmPmK","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"scmPmK","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.667Z","modifiedDate":"2022-12-13T09:05:33.667Z","privileges":["read","update","delete","publish"],"title":"Sales Variation","description":"Sales variation year over year.","tags":[]},"qData":[]}
-{"qInfo":{"qId":"wvAeu","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"wvAeu","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.705Z","modifiedDate":"2022-12-13T09:05:33.705Z","privileges":["read","update","delete","publish"],"title":"Avg Sales per customer","description":"Total sales for a given period divided by the number of customers for the same period.","tags":["customer","sales"]},"qData":[]}
-{"qInfo":{"qId":"KfZcre","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"KfZcre","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.709Z","modifiedDate":"2022-12-13T09:05:33.709Z","privileges":["read","update","delete","publish"],"title":"Sales LY YTD","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"Mw","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"Mw","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.709Z","modifiedDate":"2022-12-13T09:05:33.709Z","privileges":["read","update","delete","publish"],"title":"Sales Quantity","description":"Number of units sold.","tags":["quantity"]},"qData":[]}
-{"qInfo":{"qId":"jxSw","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"jxSw","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.714Z","modifiedDate":"2022-12-13T09:05:33.714Z","privileges":["read","update","delete","publish"],"title":"Sales vs Budget","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"nyXVXdB","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"nyXVXdB","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.774Z","modifiedDate":"2022-12-13T09:05:33.774Z","privileges":["read","update","delete","publish"],"title":"GPM%","description":"Gross Profit Margin directly tells you how much of the sales revenue, or price, is profit.","tags":[]},"qData":[]}
-{"qInfo":{"qId":"jHUbAhv","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"jHUbAhv","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.785Z","modifiedDate":"2022-12-13T09:05:33.785Z","privileges":["read","update","delete","publish"],"title":"# of Customers","description":"","tags":[]},"qData":[]}
-{"qInfo":{"qId":"kpNAF","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"kpNAF","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.897Z","modifiedDate":"2022-12-13T09:05:33.897Z","privileges":["read","update","delete","publish"],"title":"Sales Goal","description":"Sales amount last year YTD (Year-to-date is a period, starting from the beginning of the current year and continuing up to the present day).","tags":["Sales"]},"qData":[]}
-{"qInfo":{"qId":"ZtJbV","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"ZtJbV","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.917Z","modifiedDate":"2022-12-13T09:05:33.917Z","privileges":["read","update","delete","publish"],"title":"Margin Variation","description":"Margin variation represents the variation in the sales margin Year to-date versus Last Year to-date.","tags":[]},"qData":[]}
-{"qInfo":{"qId":"LDYkKJs","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"LDYkKJs","owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2022-12-13T09:05:33.994Z","modifiedDate":"2022-12-13T09:05:33.994Z","privileges":["read","update","delete","publish"],"title":"Shippings","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"BjKJbpj","qType":"measure"},"qMeta":{"title":"Cost Of Goods Sold","description":"Cost Of Goods Sold (Sum)","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"BjKJbpj","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.004Z","modifiedDate":"2023-02-07T06:11:44.004Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"d8f7ee9d-b604-4443-8846-0ecdb862fef1","qType":"measure"},"qMeta":{"title":"Orders Growth (Q-YOY)","description":"Orders Growth YOY for the most recent quarter based on user selections","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"d8f7ee9d-b604-4443-8846-0ecdb862fef1","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.015Z","modifiedDate":"2023-02-07T06:11:44.015Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"8e05ba09-95c3-4c5a-973c-4927050396ad","qType":"measure"},"qMeta":{"title":"Margin Growth (Q-YOY)","description":"Margin Growth YOY for the most recent quarter based on user selections","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"8e05ba09-95c3-4c5a-973c-4927050396ad","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.015Z","modifiedDate":"2023-02-07T06:11:44.015Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"43857237-6fc2-4bf1-a2ae-dda1b6a4baa5","qType":"measure"},"qMeta":{"title":"Sales (For Trend-Ignore Period Selections)","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"43857237-6fc2-4bf1-a2ae-dda1b6a4baa5","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.015Z","modifiedDate":"2023-02-07T06:11:44.015Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"bec369b0-a6ab-49a6-be83-7d3ef2243e1e","qType":"measure"},"qMeta":{"title":"Sales (Max Quarter) (1)","description":"Sales for the most recent quarter based on user selections","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"bec369b0-a6ab-49a6-be83-7d3ef2243e1e","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.016Z","modifiedDate":"2023-02-07T06:11:44.016Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"zEAvDf","qType":"measure"},"qMeta":{"title":"Sales (Max Quarter)","description":"Sales for the most recent quarter based on user selections","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"zEAvDf","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.016Z","modifiedDate":"2023-02-07T06:11:44.016Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"a6935d7e-cd50-43d0-b037-7cddf4389ac3","qType":"measure"},"qMeta":{"title":"Sales Growth (Q-YOY)","description":"Sales for the most recent quarter based on user selections","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"a6935d7e-cd50-43d0-b037-7cddf4389ac3","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.016Z","modifiedDate":"2023-02-07T06:11:44.016Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"BUhFpgv","qType":"measure"},"qMeta":{"title":"Current Inventory","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"BUhFpgv","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.017Z","modifiedDate":"2023-02-07T06:11:44.017Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"9ed56727-2557-4d7b-9ab2-1203dff09833","qType":"measure"},"qMeta":{"title":"Sales (Same Qtr Prior Yr)","description":"Sales for the most recent quarter based on user selections","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"9ed56727-2557-4d7b-9ab2-1203dff09833","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.017Z","modifiedDate":"2023-02-07T06:11:44.017Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"gcqjFD","qType":"measure"},"qMeta":{"title":"Units Sold Last 90 Days","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"gcqjFD","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.018Z","modifiedDate":"2023-02-07T06:11:44.018Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"nPpgRa","qType":"measure"},"qMeta":{"title":"Margin % (Max Quarter)","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"nPpgRa","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.021Z","modifiedDate":"2023-02-07T06:11:44.021Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"EcnbszG","qType":"measure"},"qMeta":{"title":"Orders (Max Quarter)","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"EcnbszG","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.021Z","modifiedDate":"2023-02-07T06:11:44.021Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"jmsQmuq","qType":"measure"},"qMeta":{"title":"Orders","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"jmsQmuq","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.022Z","modifiedDate":"2023-02-07T06:11:44.022Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"325587cf-4ce3-4e5a-bc42-746815476e07","qType":"measure"},"qMeta":{"title":"Sales (Max Month)","description":"Sales for the most recent month based on user selections","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"325587cf-4ce3-4e5a-bc42-746815476e07","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.024Z","modifiedDate":"2023-02-07T06:11:44.024Z","privileges":["read","update","delete","publish"]},"qData":[]}
+{"qInfo":{"qId":"JNgep","qType":"measure"},"qMeta":{"title":"Sales","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"measure","id":"JNgep","approved":false,"published":false,"owner":"auth0|1c7979daa0084e4061ca53c390d974936c9719c90929e34a7d9eda2bf2c5979d","ownerId":"6260db1234bc0960790e6ebb","createdDate":"2023-02-07T06:11:44.024Z","modifiedDate":"2023-02-07T06:11:44.024Z","privileges":["read","update","delete","publish"]},"qData":[]}
 
 VARIABLES
-{"qName":"vAdj","qDefinition":"730","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"be7f41f9-09a3-43a1-97b1-33a3b8a90da0","qType":"variable"},"qData":[]}
-{"qName":"vReloadTime","qDefinition":"= MakeDate(2010,11,9)+ 0.493055556\n\/\/39441.093055556","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"33ee1171-e832-47af-8a3e-5efd17d6ce4c","qType":"variable"},"qData":[]}
-{"qName":"Price2","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"751c5ac7-3bc9-4b30-b039-c4528a1ffb91","qType":"variable"},"qData":[]}
-{"qName":"Qty2","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"b9692aa5-422c-4f6f-b61b-70d090dc09b7","qType":"variable"},"qData":[]}
-{"qName":"OffsetNumber","qDefinition":"730","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"db803f7f-23e2-4607-972a-0ec7a26a5a74","qType":"variable"},"qData":[]}
-{"qName":"Price3","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6cd6abbb-13d1-45a4-8541-3aee5f914440","qType":"variable"},"qData":[]}
-{"qName":"Cost2","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"432fabd0-42cd-4829-8bfc-31d2fde540ac","qType":"variable"},"qData":[]}
-{"qName":"Group1","qDefinition":"\"American Pimento Loaf\",\"American Potato Salad\"","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"9466d126-df4d-444e-9c96-5bbe87ba266f","qType":"variable"},"qData":[]}
-{"qName":"Group2","qDefinition":"\"Atomic Bubble Gum\",\"Applause Canned Mixed Fruit\",\"Applause Canned Peaches\",\"American Potato Salad\",\"American Sliced Ham\",\"American Sliced Chicken\",\"American Turkey Hot Dogs\",\"American Roasted Chicken\"","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"48aa2b99-7b08-4c8b-a062-051d15984624","qType":"variable"},"qData":[]}
-{"qName":"vStep1","qDefinition":"-1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"8c80ce0b-c656-4a10-9ef2-4e1e528bbad5","qType":"variable"},"qData":[]}
-{"qName":"vStep2","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"f776962b-2ea4-4390-a0b2-c91a062bc598","qType":"variable"},"qData":[]}
+{"qName":"vVersion","qDefinition":"1.6","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"cc6ee9e9-1368-4f8e-babb-e3da8e6771e3","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"appId","qDefinition":"b1e025e9-d7ea-4610-8bb6-b72f4e1dcb28","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"64c79324-7853-4f9a-a5f0-284e43bce24f","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"appName","qDefinition":"Customer Analysis (Demo App)","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"f398a79c-d0a1-4971-828f-0e2d11d13612","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vu_tenant_fqdn","qDefinition":"9e3dok9017rz9fo.eu.qlikcloud.com","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"dccae707-94db-46d8-b11a-2a8e643b6cfc","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vu_rest_connection","qDefinition":"Monitoring apps:REST for App Analyzer","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"60217f74-de22-489c-b4d6-2dfda57c34bb","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vNextURL","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"f15c9a81-85ce-48dd-9113-e246c6e109ce","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"baseURL","qDefinition":"https:\/\/9e3dok9017rz9fo.eu.qlikcloud.com\/api\/v1\/spaces\/63da5d6424901e11a2b923b9","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"e42f970d-4b31-4c79-97c2-a410b7448209","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vSpaceId","qDefinition":"63da5d6424901e11a2b923b9","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"eb3be001-eb57-4f0a-a5f0-75f9b42757cb","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vSpaceType","qDefinition":"shared","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"e969d5ec-9537-450d-b87f-957ac5674d50","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vSpacePrefix","qDefinition":"De","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"ae05dfbe-5b19-493e-af8f-9035a2da9ffd","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vSpaceName","qDefinition":"Demo App Customer Ana","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6c834ffe-087b-45be-a07e-65d884c5df97","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vspaceDescription","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"20546fb6-6a3a-4648-8ca5-e12add4c6e1e","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vPathTransformQVDs","qDefinition":"lib:\/\/01.SaaS Demo App Transform-DEV:DataFiles","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"8b41913e-0882-4e06-8efd-efa8f4c12fff","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vPathExtractQVDs","qDefinition":"lib:\/\/01.SaaS Demo App Extract-DEV:DataFiles","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6978c1d2-20b7-4a96-9f7b-cbcbf49d9938","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vAppType","qDefinition":"Presentation","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"b3bd67e1-268f-4fd4-8fd0-7fe2fb69467c","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vAveragePaid","qDefinition":"Sum( Aggr( Avg( [Loss Total] + [Expense Total] ), [Suffix Dim Id],[Supervisor Dim Id], [Adjuster Dim Id] ) ) \/ Count(Distinct [Review Dim Id])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6b4a6f8a-faef-46af-89d5-dc3fd94dd39f","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vCPI","qDefinition":"Sum([Scoring Value1])*300 \/ Sum([Scoring Weight1])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d86fd18b-22ef-4c83-9724-45dcae613f4b","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vExpense","qDefinition":"Sum( Aggr( Avg( [Expense Total] ), [Suffix Dim Id], [Supervisor Dim Id], [Adjuster Dim Id] ) )","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"885c81d9-cf52-4e72-bb42-f87636473d07","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vExpenseLeakage","qDefinition":"Sum({$<[Leakage Allocation Dim Id] = {\"2\",\"8\"}>}[Net Indemnity Leakage])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"6e8883e9-b19e-46e7-80da-f5423906185d","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"YesFactPctGradient","qDefinition":"ColorMix1($(vYesFactPct), White(), $(vColorPurple))","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"2dff2a15-ac16-491f-9fdc-9256ce5336fc","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"NoFactPctGradient","qDefinition":"ColorMix1($(vNoFactPct), White(), $(vColorGreen))","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d68953e7-7684-473a-8bc3-de5e51ae2ded","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vCtrlShowDescription","qDefinition":"Yes","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"3ee6f8d6-c8c9-4238-a737-bd53e00d133e","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vExpMaxFiscalQtr","qDefinition":"=maxstring({<[Serial Quarter] = {$(vModMaxSerialQtr)},Year, Quarter>}[Fiscal Year Qtr])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d3009928-8607-40e4-8603-66f46201978d","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vExpMaxQuarter","qDefinition":"=maxstring({<[Serial Quarter] = {$(vModMaxSerialQtr)},Year, Quarter>}[Year-Quarter])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d7e1ebd8-4722-4a9a-bd60-316d6e110c30","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vModIgnoreDatesForQtr","qDefinition":"[Order Date]=,Month=,Quarter=,Year=,[Year-Quarter]=","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"b9197ff0-95cf-4cae-97de-c5eb31601172","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vModMaxSerialMonth","qDefinition":"=max([Serial Month])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"5cda627b-54e8-4fb8-9583-a6f082956988","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vModMaxSerialQtr","qDefinition":"=max([Serial Quarter])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"5a8a8346-4fc3-462e-ae1e-8f11cc0019a5","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vModMaxSerialWeek","qDefinition":"=max([Serial Week])","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"c5f93d85-659f-4fdc-b00f-4f2af9fa613d","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vModSameMonthPriorYear","qDefinition":"=IF(max([Serial Month])-12<1,0,max([Serial Month])-12)","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"e3a4d2c6-65ca-4bbd-9036-22cb47ed50ed","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vModSameQtrPriorYear","qDefinition":"=IF(max([Serial Quarter])>4,max([Serial Quarter])-4)","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"85ea1481-ced8-4745-be2b-aa0179c823d6","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vModSameWeekPriorYear","qDefinition":"=max([Serial Week])-52","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"96f55293-49c3-448f-8dbf-c2c4b9be1321","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"crossAppsSearchEnabled","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"21da4ebc-dcd4-442e-8fc9-2206413426b1","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vVariablesPathFile","qDefinition":"lib:\/\/:DataFiles\/ExternalVariables.xls","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"f79c07db-fc1a-4091-879a-b18911f204fc","qType":"variable"},"qData":[]}
+{"qName":"vVarCount","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"2655a1d9-45fc-494c-952e-fb22a8ca7ca0","qType":"variable"},"qData":[]}
+{"qName":"i","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"74655302-bcc7-4e88-a4fb-c1ad0c827c7a","qType":"variable"},"qData":[]}
+{"qName":"vTempName","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"8111cb6c-7da8-4f81-abc5-178b9bb82ff7","qType":"variable"},"qData":[]}
+{"qName":"vTempValue","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"b94e4c49-ff90-468c-a912-e8de5e744df1","qType":"variable"},"qData":[]}
 
 FIELDS
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":151,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":12,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":12,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":9,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":54,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
-{"qName":"Short Name","qCardinal":827,"qTags":["$key","$numeric","$integer"],"qSrcTables":["FinalItemMaster","FinalItemBranch"]}
-{"qName":"Item Count","qCardinal":827,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Price Group","qCardinal":12,"qTags":[],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Department","qCardinal":18,"qTags":[],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Line","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Line Desc","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Group","qCardinal":17,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Group Desc","qCardinal":17,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Type","qCardinal":31,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Master Planning Family","qCardinal":33,"qTags":[],"qSrcTables":["FinalItemMaster"]}
-{"qName":"Product Sub Group","qCardinal":70,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
-{"qName":"AggKey","qCardinal":64118,"qTags":["$key","$ascii","$text"],"qSrcTables":["AggSales","SalesDetails2"]}
-{"qName":"YTD Sales Amount","qCardinal":11126,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"LY YTD Sales Amount","qCardinal":12104,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"TM Sales Amount","qCardinal":4057,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"LY TM Sales Amount","qCardinal":4348,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"LY Tot Sales Amount","qCardinal":18473,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"YTD Sales Margin Amount","qCardinal":13653,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"LY YTD Sales Margin Amount","qCardinal":14894,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"TM Sales Margin Amount","qCardinal":4477,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"LY TM Sales Margin Amount","qCardinal":5004,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"LY Tot Sales Margin Amount","qCardinal":21875,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"Current Open Amount","qCardinal":2647,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"Current BackOrder Amount","qCardinal":2017,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
-{"qName":"Current Backlog Amount","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["AggSales"]}
-{"qName":"Address Number","qCardinal":637,"qTags":["$key","$ascii","$text"],"qSrcTables":["CustomerAddress","Customers","SalesDetails2"]}
-{"qName":"Customer Address 1","qCardinal":420,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
-{"qName":"Customer Address 2","qCardinal":84,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
-{"qName":"Customer Address 3","qCardinal":20,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
-{"qName":"Customer Address 4","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
-{"qName":"Zip Code","qCardinal":375,"qTags":[],"qSrcTables":["CustomerAddress"]}
-{"qName":"City","qCardinal":344,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
-{"qName":"County","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
-{"qName":"State-USStates.Name","qCardinal":57,"qTags":["$geoname","$key","$ascii","$text"],"qSrcTables":["CustomerAddress","Province","US STATES"]}
-{"qName":"Country","qCardinal":46,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
-{"qName":"Division","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
-{"qName":"Division Name","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Business Family","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Customer Type","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Customer Type Name","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Channel","qCardinal":8,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Channel Name","qCardinal":7,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Category Code 5","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Zone Mgr","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Zone Mgr Name","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Category Code 7","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Regional Sales Mgr","qCardinal":19,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Regional Sales Mgr Name","qCardinal":19,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Distribution Channel Mgr","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Distribution Channel Mgr Name","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Region Code","qCardinal":6,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
-{"qName":"Region Name","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Price Discount Cde 4","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Line of Business","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Sales Volume","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Customer","qCardinal":638,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Customer Number","qCardinal":637,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
-{"qName":"Consolidated","qCardinal":481,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
-{"qName":"Search Type","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Phone","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Business Unit","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
-{"qName":"SIC Code","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Tax Certificate","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
-{"qName":"Item Branch 3rd Item Number","qCardinal":2593,"qTags":[],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Item Branch G\/L Category","qCardinal":20,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Item Branch 2nd Item Number","qCardinal":2593,"qTags":[],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Item-Branch Key","qCardinal":920,"qTags":["$key","$ascii","$text"],"qSrcTables":["FinalItemBranch","SalesDetails2"]}
-{"qName":"Item Branch Reorder Quantity","qCardinal":10,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Horsepower","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Item Branch Category Code 6","qCardinal":20,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Item Branch Category Code 7","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Item Branch Primary Supplier","qCardinal":142,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
-{"qName":"Order Number","qCardinal":47002,"qTags":["$key","$numeric","$integer"],"qSrcTables":["FinalSalesHeader","SalesDetails2"]}
-{"qName":"Address Number Header","qCardinal":610,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Order Gross Amount","qCardinal":6643,"qTags":["$numeric"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Order Type Header","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Business Unit Order Header","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Order Date Header","qCardinal":581,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Hold Orders Code Header","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Company Number Header","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Stop Code Header","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Zone Code Header","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Hold Code Header","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Ship To Address Header","qCardinal":750,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Parent Address Number Header","qCardinal":417,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Orderby Header","qCardinal":839,"qTags":[],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"Freight Code Header","qCardinal":6,"qTags":[],"qSrcTables":["FinalSalesHeader"]}
-{"qName":"BudKey","qCardinal":637,"qTags":["$key","$ascii","$text"],"qSrcTables":["FinalYTDBudget","SalesDetails2"]}
-{"qName":"YTD Budget Amount","qCardinal":383,"qTags":["$numeric"],"qSrcTables":["FinalYTDBudget"]}
-{"qName":"TM Budget Amount","qCardinal":291,"qTags":["$numeric"],"qSrcTables":["FinalYTDBudget"]}
-{"qName":"state_abbr","qCardinal":50,"qTags":["$ascii","$text"],"qSrcTables":["Province"]}
-{"qName":"state_name","qCardinal":51,"qTags":["$ascii","$text"],"qSrcTables":["Province"]}
-{"qName":"NoOfItem","qCardinal":215,"qTags":["$numeric","$integer"],"qSrcTables":["Sales"]}
-{"qName":"MaxNoOfItem","qCardinal":136,"qTags":["$numeric","$integer"],"qSrcTables":["Sales"]}
-{"qName":"Key","qCardinal":203404,"qTags":["$key","$ascii","$text"],"qSrcTables":["Sales","SalesDetails2"]}
-{"qName":"USStates.Area","qCardinal":50,"qTags":["$wgs84","$geomultipolygon","$ascii","$text"],"qSrcTables":["US STATES"]}
-{"qName":"Ship To","qCardinal":1009,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Rep","qCardinal":64,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Rep Name","qCardinal":63,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Item Class","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Item Class Desc","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"CustKey","qCardinal":637,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Family Class","qCardinal":36,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Amount Based on List Price","qCardinal":8077,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Line Desc 1","qCardinal":827,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Invoice Number","qCardinal":60268,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Backlog Amount","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Quantity","qCardinal":359,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Qty Backordered","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Actual Delivery Date","qCardinal":505,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Last Status","qCardinal":17,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Number Of Days Late","qCardinal":142,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Doc Type","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Order Status Primary","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Order Status","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Line Number","qCardinal":508,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Item Number","qCardinal":13840,"qTags":[],"qSrcTables":["SalesDetails2"]}
-{"qName":"Line Type","qCardinal":12,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"List Price","qCardinal":2456,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Cost Amount","qCardinal":10045,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Order Margin","qCardinal":3327,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Open Order Cost Amount","qCardinal":2332,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Discount Amount","qCardinal":32988,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Invoice Date","qCardinal":507,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Company Number Detail","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Payment Terms","qCardinal":35,"qTags":[],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Unit Cost Price","qCardinal":3224,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Open Order Quantity","qCardinal":168,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Unit Price","qCardinal":11470,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Business Unit Details","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Next Status","qCardinal":9,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Promised Delivery Date","qCardinal":600,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Margin Amount","qCardinal":40344,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"U\/M","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Parent Address Number","qCardinal":607,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Open Order Amount","qCardinal":3000,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Amount","qCardinal":29395,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"BackOrder Amount","qCardinal":2353,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Sales Price","qCardinal":25931,"qTags":["$numeric"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Address Order Number","qCardinal":47002,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Late Shipment","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Order Type Detail","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails2"]}
-{"qName":"Shipments","qCardinal":64798,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails2"]}
-{"qName":"DateKey","qCardinal":533,"qTags":["$key","$numeric","$integer","$timestamp","$date"],"qSrcTables":["SalesDetails2","Dates3"]}
-{"qName":"Date","qCardinal":533,"qTags":["$numeric","$integer","$timestamp","$date"],"qDerivedFieldData":{"qDerivedFieldLists":[{"qDerivedDefinitionName":"autoCalendar","qFieldDefs":[{"qId":"509209fa-f7ec-4f8a-99e9-43d3b167dde2:Year","qName":"Date.autoCalendar.Year","qMethod":"Year","qExpr":"=${autoCalendar(Date).Year}","qTags":["$axis","$year"]},{"qId":"509209fa-f7ec-4f8a-99e9-43d3b167dde2:Quarter","qName":"Date.autoCalendar.Quarter","qMethod":"Quarter","qExpr":"=${autoCalendar(Date).Quarter}","qTags":["$quarter","$cyclic"]},{"qId":"509209fa-f7ec-4f8a-99e9-43d3b167dde2:YearQuarter","qName":"Date.autoCalendar.YearQuarter","qMethod":"YearQuarter","qExpr":"=${autoCalendar(Date).YearQuarter}","qTags":["$yearquarter","$qualified"]},{"qId":"509209fa-f7ec-4f8a-99e9-43d3b167dde2:Month","qName":"Date.autoCalendar.Month","qMethod":"Month","qExpr":"=${autoCalendar(Date).Month}","qTags":["$month","$cyclic"]},{"qId":"509209fa-f7ec-4f8a-99e9-43d3b167dde2:YearMonth","qName":"Date.autoCalendar.YearMonth","qMethod":"YearMonth","qExpr":"=${autoCalendar(Date).YearMonth}","qTags":["$axis","$yearmonth","$qualified"]},{"qId":"509209fa-f7ec-4f8a-99e9-43d3b167dde2:Week","qName":"Date.autoCalendar.Week","qMethod":"Week","qExpr":"=${autoCalendar(Date).Week}","qTags":["$weeknumber","$cyclic"]},{"qId":"509209fa-f7ec-4f8a-99e9-43d3b167dde2:Date","qName":"Date.autoCalendar.Date","qMethod":"Date","qExpr":"=${autoCalendar(Date).Date}","qTags":["$axis","$date","$qualified"]}],"qGroupDefs":[],"qTags":["$date"]}]},"qSrcTables":["Dates3"]}
-{"qName":"Day","qCardinal":31,"qTags":["$numeric","$integer"],"qSrcTables":["Dates3"]}
-{"qName":"Month","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["Dates3"]}
-{"qName":"Week","qCardinal":52,"qTags":["$numeric","$integer"],"qSrcTables":["Dates3"]}
-{"qName":"Weekday","qCardinal":7,"qTags":["$numeric","$integer"],"qSrcTables":["Dates3"]}
-{"qName":"Year","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Dates3"]}
-{"qName":"YearMonth","qCardinal":24,"qTags":["$numeric","$integer"],"qSrcTables":["Dates3"]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":73,"qTags":["$ascii","$text","$key","$hidden","$system"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":9,"qTags":["$ascii","$text","$key","$hidden","$system"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":8,"qTags":["$numeric","$integer","$hidden","$system"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":7,"qTags":["$numeric","$integer","$hidden","$system"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":25,"qTags":["$numeric","$integer","$hidden","$system"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$ascii","$text","$hidden","$system"],"qSrcTables":[]}
+{"qName":"%Ver_Version","qCardinal":8,"qTags":["$numeric"],"qSrcTables":["Island_VersionControl"]}
+{"qName":"%Ver_Date","qCardinal":8,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["Island_VersionControl"]}
+{"qName":"%Ver_Author","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Island_VersionControl"]}
+{"qName":"%Ver_Change","qCardinal":8,"qTags":["$ascii","$text"],"qSrcTables":["Island_VersionControl"]}
+{"qName":"Order Date","qCardinal":1596,"qTags":["$numeric","$integer","$timestamp","$date","$key"],"qSrcTables":["Multi-FACT","Order Date DIM"]}
+{"qName":"%SalesRepID","qCardinal":10,"qTags":["$numeric","$integer","$key"],"qSrcTables":["Multi-FACT","Sales Reps DIM"]}
+{"qName":"%ProductID","qCardinal":288,"qTags":["$numeric","$integer","$key"],"qSrcTables":["Multi-FACT","Products DIM"]}
+{"qName":"Fact Type","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Order ID","qCardinal":1031,"qTags":["$numeric","$integer"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Order Mode","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Multi-FACT"]}
+{"qName":"%CustomerID","qCardinal":319,"qTags":["$numeric","$integer","$key"],"qSrcTables":["Multi-FACT","Customers DIM"]}
+{"qName":"Order Status","qCardinal":11,"qTags":["$numeric","$integer"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Line Item Count","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Unit Price","qCardinal":181,"qTags":["$numeric"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Quantity","qCardinal":2488,"qTags":["$numeric","$integer"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Gross Sales","qCardinal":4673,"qTags":["$numeric"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Promotion","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Multi-FACT"]}
+{"qName":"%RevenueTargetKey","qCardinal":158,"qTags":["$numeric","$integer","$key"],"qSrcTables":["Multi-FACT","Revenue Targets DIM"]}
+{"qName":"%SalesQuotaKey","qCardinal":97,"qTags":["$numeric","$integer","$key"],"qSrcTables":["Multi-FACT","Sales Quotas DIM"]}
+{"qName":"%WarehouseID","qCardinal":9,"qTags":["$numeric","$integer","$key"],"qSrcTables":["Multi-FACT","Warehouses DIM"]}
+{"qName":"Quantity On Hand","qCardinal":237,"qTags":["$numeric","$integer"],"qSrcTables":["Multi-FACT"]}
+{"qName":"Product","qCardinal":287,"qTags":["$ascii","$text"],"qSrcTables":["Products DIM"]}
+{"qName":"Description","qCardinal":288,"qTags":["$ascii","$text"],"qSrcTables":["Products DIM"]}
+{"qName":"Product Category","qCardinal":11,"qTags":["$ascii","$text"],"qSrcTables":["Products DIM"]}
+{"qName":"Cost Of Goods Sold","qCardinal":185,"qTags":[],"qSrcTables":["Products DIM"]}
+{"qName":"Customer","qCardinal":319,"qTags":["$ascii","$text"],"qSrcTables":["Customers DIM"]}
+{"qName":"Customer Country","qCardinal":8,"qTags":["$ascii","$text"],"qSrcTables":["Customers DIM"]}
+{"qName":"Customer Gender","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers DIM"]}
+{"qName":"Customer Income Level","qCardinal":12,"qTags":["$ascii","$text"],"qSrcTables":["Customers DIM"]}
+{"qName":"State Name","qCardinal":48,"qTags":["$ascii","$text"],"qSrcTables":["Customers DIM"]}
+{"qName":"State Abbr","qCardinal":48,"qTags":["$ascii","$text"],"qSrcTables":["Customers DIM"]}
+{"qName":"%Warehouse Country Code","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Warehouses DIM"]}
+{"qName":"Warehouse Name","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Warehouses DIM"]}
+{"qName":"Warehouse City","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Warehouses DIM"]}
+{"qName":"Warehouse Country","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Warehouses DIM"]}
+{"qName":"Warehouse Region","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Warehouses DIM"]}
+{"qName":"%ManagerID","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["Sales Reps DIM"]}
+{"qName":"Sales Rep Name","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Sales Reps DIM"]}
+{"qName":"Manager Name","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Sales Reps DIM"]}
+{"qName":"Department Name","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Sales Reps DIM"]}
+{"qName":"Reporting Level 1","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Sales Reps DIM"]}
+{"qName":"Reporting Level 2","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Sales Reps DIM"]}
+{"qName":"Reporting Level 3","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Sales Reps DIM"]}
+{"qName":"Year","qCardinal":6,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Quarter","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Year-Quarter","qCardinal":19,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Month","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Month Number","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Year-Mon","qCardinal":53,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Week","qCardinal":53,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Year-Week","qCardinal":229,"qTags":["$ascii","$text"],"qSrcTables":["Order Date DIM"]}
+{"qName":"WeekDay","qCardinal":7,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Fiscal Year","qCardinal":6,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Fiscal Quarter","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Fiscal Month Number","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Fiscal Week","qCardinal":53,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Fiscal Year-Week","qCardinal":234,"qTags":["$ascii","$text"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Fiscal Year-Mon","qCardinal":53,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Current YTD Flag","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Prior YTD Flag","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Current FYTD Flag","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Prior FYTD Flag","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Last 90 Days Flag","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Serial Week","qCardinal":229,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Serial Month","qCardinal":53,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Serial Quarter","qCardinal":19,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"Fiscal Year Qtr","qCardinal":19,"qTags":["$numeric","$integer"],"qSrcTables":["Order Date DIM"]}
+{"qName":"%ProductCategory","qCardinal":11,"qTags":["$ascii","$text"],"qSrcTables":["Revenue Targets DIM"]}
+{"qName":"%RevenueTargetQuarter","qCardinal":17,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["Revenue Targets DIM"]}
+{"qName":"Revenue Target","qCardinal":141,"qTags":["$numeric","$integer"],"qSrcTables":["Revenue Targets DIM"]}
+{"qName":"%QuotaSalesRepID","qCardinal":10,"qTags":[],"qSrcTables":["Sales Quotas DIM"]}
+{"qName":"%QuotaTargetQuarter","qCardinal":17,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["Sales Quotas DIM"]}
+{"qName":"Sales Quota","qCardinal":96,"qTags":["$numeric","$integer"],"qSrcTables":["Sales Quotas DIM"]}
